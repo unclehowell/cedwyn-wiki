@@ -1,0 +1,10 @@
+{
+ "id": "wiki",
+ "title": "The Legal Wiki",
+ "group": "artifacts",
+ "source": "snapshot of https://greathousefarmwiki.wordpress.com/",
+ "snapshot_utc": "2026-10-27T04:57:16Z",
+ "files": 1134,
+ "build": "none (static files; served at /wiki/)",
+ "note": "Section branch: everything Cedwyn serves at /wiki/ comes from this branch at the commit main/sections.lock pins. Change only this section here."
+}
