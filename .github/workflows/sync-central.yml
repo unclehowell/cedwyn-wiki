@@ -1,0 +1,36 @@
+name: sync-central
+# This webapp's own data store. data/central.json holds only the central-catalogue fields the page shows (id, kind, title,
+# date, status, page) for the record IDs cited in the legal wiki (every page and data file outside theme assets), pulled
+# read-only from the central catalogue by tools/sync_central.py; served at /wiki/data/central.json. It is derived: never edited by hand.
+# Runs in Actions only. Every 6 hours and on demand; never force-pushes.
+# If the repo is ever put back in mirror mode (split-repos.json), mirror.yml's rsync removes tools/ and data/; this job then
+# skips instead of failing.
+# - Sion's Tab agent
+on:
+  schedule:
+    - cron: '25 1-23/6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sync-central
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main, fetch-depth: 1 }
+      - name: Pull the fields this webapp needs from the central catalogue
+        run: |
+          if [ ! -f tools/sync_central.py ]; then echo "tools/sync_central.py not present (mirror mode?); skipping"; exit 0; fi
+          python3 tools/sync_central.py
+      - name: Commit when something changed
+        run: |
+          [ -f data/central.json ] || { echo "no store"; exit 0; }
+          git add data/central.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git -c user.name="cedwyn-central-sync" -c user.email="actions@users.noreply.github.com" commit -q -m "data/central.json: sync from the central catalogue"
+          for i in 1 2 3; do git push origin HEAD:main && exit 0; git pull -q --rebase origin main || exit 1; sleep 5; done
+          exit 1
