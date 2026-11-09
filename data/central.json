@@ -10,241 +10,10 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-08T00:15:39Z",
- "count": 292,
+ "synced_utc": "2026-11-09T08:09:02Z",
+ "count": 523,
  "not_in_central": [
-  "EV-0226",
-  "EV-0234",
-  "EV-0255",
-  "EV-0274",
-  "EV-0290",
-  "EV-0295",
-  "EV-0296",
-  "EV-0297",
-  "EV-0298",
-  "EV-0299",
-  "EV-0300",
-  "EV-0301",
-  "EV-0302",
-  "EV-0303",
-  "EV-0304",
-  "EV-0305",
-  "EV-0306",
-  "EV-0307",
-  "EV-0308",
-  "EV-0309",
-  "EV-0310",
-  "EV-0311",
-  "EV-0312",
-  "EV-0313",
-  "EV-0314",
-  "EV-0315",
-  "EV-0316",
-  "EV-0317",
-  "EV-0318",
-  "EV-0319",
-  "EV-0320",
-  "EV-0321",
-  "EV-0322",
-  "EV-0323",
-  "EV-0324",
-  "EV-0325",
-  "EV-0326",
-  "EV-0327",
-  "EV-0328",
-  "EV-0329",
-  "EV-0330",
-  "EV-0331",
-  "EV-0332",
-  "EV-0333",
-  "EV-0334",
-  "EV-0335",
-  "EV-0336",
-  "EV-0337",
-  "EV-0338",
-  "EV-0339",
-  "EV-0340",
-  "EV-0341",
-  "EV-0342",
-  "EV-0343",
-  "EV-0344",
-  "EV-0345",
-  "EV-0346",
-  "EV-0347",
-  "EV-0348",
-  "EV-0349",
-  "EV-0350",
-  "EV-0351",
-  "EV-0352",
-  "EV-0353",
-  "EV-0354",
-  "EV-0355",
-  "EV-0356",
-  "EV-0357",
-  "EV-0358",
-  "EV-0359",
-  "EV-0360",
-  "EV-0361",
-  "EV-0362",
-  "EV-0363",
-  "EV-0364",
-  "EV-0365",
-  "EV-0366",
-  "EV-0367",
-  "EV-0368",
-  "EV-0369",
-  "EV-0370",
-  "EV-0371",
-  "EV-0372",
-  "EV-0373",
-  "EV-0374",
-  "EV-0375",
-  "EV-0376",
-  "EV-0377",
-  "EV-0378",
-  "EV-0379",
-  "EV-0380",
-  "EV-0381",
-  "EV-0382",
-  "EV-0383",
-  "EV-0384",
-  "EV-0385",
-  "EV-0386",
-  "EV-0387",
-  "EV-0388",
-  "EV-0389",
-  "EV-0390",
-  "EV-0391",
-  "EV-0392",
-  "EV-0393",
-  "EV-0394",
-  "EV-0395",
-  "EV-0396",
-  "EV-0397",
-  "EV-0398",
-  "EV-0399",
-  "EV-0400",
-  "EV-0401",
-  "EV-0402",
-  "EV-0403",
-  "EV-0404",
-  "EV-0405",
-  "EV-0406",
-  "EV-0407",
-  "EV-0408",
-  "EV-0409",
-  "EV-0410",
-  "EV-0411",
-  "EV-0412",
-  "EV-0413",
-  "EV-0414",
-  "EV-0415",
-  "EV-0416",
-  "EV-0417",
-  "EV-0418",
-  "EV-0419",
-  "EV-0420",
-  "EV-0421",
-  "EV-0422",
-  "EV-0423",
-  "EV-0424",
-  "EV-0425",
-  "EV-0426",
-  "EV-0427",
-  "EV-0428",
-  "EV-0429",
-  "EV-0430",
-  "EV-0431",
-  "EV-0432",
-  "EV-0433",
-  "EV-0434",
-  "EV-0435",
-  "EV-0436",
-  "EV-0437",
-  "EV-0438",
-  "EV-0439",
-  "EV-0440",
-  "EV-0441",
-  "EV-0442",
-  "EV-0443",
-  "EV-0444",
-  "EV-0445",
-  "EV-0446",
-  "EV-0447",
-  "EV-0448",
-  "EV-0449",
-  "EV-0450",
-  "EV-0451",
-  "EV-0452",
-  "EV-0453",
-  "EV-0454",
-  "EV-0455",
-  "EV-0456",
-  "EV-0457",
-  "EV-0458",
-  "EV-0459",
-  "EV-0460",
-  "EV-0461",
-  "EV-0462",
-  "EV-0463",
-  "EV-0464",
-  "EV-0465",
-  "EV-0466",
-  "EV-0467",
-  "EV-0468",
-  "EV-0469",
-  "EV-0470",
-  "EV-0471",
-  "EV-0472",
-  "EV-0473",
-  "EV-0474",
-  "EV-0475",
-  "EV-0476",
-  "EV-0477",
-  "EV-0478",
-  "EV-0479",
-  "EV-0480",
-  "EV-0481",
-  "EV-0482",
-  "EV-0483",
-  "EV-0484",
-  "EV-0485",
-  "EV-0486",
-  "EV-0487",
-  "EV-0488",
-  "EV-0489",
-  "EV-0490",
-  "EV-0491",
-  "EV-0492",
-  "EV-0493",
-  "EV-0494",
-  "EV-0495",
-  "EV-0496",
-  "EV-0497",
-  "EV-0498",
-  "EV-0499",
-  "EV-0500",
-  "EV-0501",
-  "EV-0502",
-  "EV-0503",
-  "EV-0504",
-  "EV-0505",
-  "EV-0506",
-  "EV-0507",
-  "EV-0508",
-  "EV-0509",
-  "EV-0510",
-  "EV-0511",
-  "EV-0512",
-  "EV-0600",
-  "EV-0601",
-  "EV-0602",
-  "EV-0603",
-  "EV-0604",
-  "EV-0605",
-  "EV-0606",
-  "EV-0900",
-  "EV-0901"
+  "EV-0900"
  ],
  "items": {
   "EV-0001": {
@@ -2272,6 +2041,15 @@
    "status": "HELD (public online copy). Quotes read from the linked pages, 19 Oct 2026.",
    "page": "https://research.bucklerfamily.estate/evidence/ev-0225-trade-directories-1868-1901-john-williams-great-house/"
   },
+  "EV-0226": {
+   "id": "EV-0226",
+   "kind": "evidence",
+   "title": "South Wales Star, 10 Jun 1892: “Mr. John Williams, Great House Farm, Llandough”",
+   "date_display": null,
+   "date_sort": "1892",
+   "status": "catalogued",
+   "page": null
+  },
   "EV-0227": {
    "id": "EV-0227",
    "kind": "evidence",
@@ -2334,6 +2112,15 @@
    "date_sort": "1940-08",
    "status": "PENDING — catalogue verified, document not seen.",
    "page": "https://research.bucklerfamily.estate/evidence/ev-0233-dbdt129-3-wgr-thomas-llandough-farm-tenancy-1940/"
+  },
+  "EV-0234": {
+   "id": "EV-0234",
+   "kind": "evidence",
+   "title": "NOT OUR FARM: Thomas Williams of Ynysawdre Farm and the Ynysawdre Coal Co., agreement and umpire’s award, 1878",
+   "date_display": null,
+   "date_sort": "1878",
+   "status": "catalogued",
+   "page": null
   },
   "EV-0235": {
    "id": "EV-0235",
@@ -2515,6 +2302,15 @@
    "status": "SOURCE PENDING (not seen)",
    "page": "https://research.bucklerfamily.estate/evidence/ev-0254-tna-maf-11-55-5333-llandough-exchange-of-lands-1879/"
   },
+  "EV-0255": {
+   "id": "EV-0255",
+   "kind": "evidence",
+   "title": "Witness statement: Cadw officers inspect the farmhouse, 1988 (given 19 Oct 2026)",
+   "date_display": null,
+   "date_sort": "1988",
+   "status": "catalogued",
+   "page": null
+  },
   "EV-0256": {
    "id": "EV-0256",
    "kind": "evidence",
@@ -2677,6 +2473,15 @@
    "status": "SOURCE PENDING (snippet only)",
    "page": "https://research.bucklerfamily.estate/evidence/ev-0273-south-wales-echo-23-feb-1990-great-house-farm-homes-bid-village-green/"
   },
+  "EV-0274": {
+   "id": "EV-0274",
+   "kind": "evidence",
+   "title": "Probate calendar 1991: “BUCKLER, William Beverley … of Penarth … died 29 April 1990”, administration granted at Llandaff on 11 July 1991 (probable match for William “Billy” Buckler; identity not proven); no grant found for Mary (Nancy) Williams under “Buckler” in 1983–87",
+   "date_display": null,
+   "date_sort": "1991",
+   "status": "catalogued",
+   "page": null
+  },
   "EV-0275": {
    "id": "EV-0275",
    "kind": "evidence",
@@ -2812,6 +2617,15 @@
    "status": "SOURCE PENDING (snippets read 21 Oct 2026)",
    "page": "https://research.bucklerfamily.estate/evidence/ev-0289-snippets-only-bp-pension-trust-in-south-wales-1981-83-sale-of-its-residential-grou/"
   },
+  "EV-0290": {
+   "id": "EV-0290",
+   "kind": "evidence",
+   "title": "SNIPPET ONLY: South Wales Echo, 2 Jun 1990, p.2: “Billy died suddenly this week”; he “made a detour around Llandough so never had to pass the site of Great House Farm”",
+   "date_display": null,
+   "date_sort": "1990",
+   "status": "catalogued",
+   "page": null
+  },
   "EV-0291": {
    "id": "EV-0291",
    "kind": "evidence",
@@ -2848,6 +2662,2031 @@
    "status": "HELD (copy)",
    "page": null
   },
+  "EV-0295": {
+   "id": "EV-0295",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Soldier, horse, visor and lance discovery at Great House Farm (27 Jul 2026–22 Sep 2026)",
+   "date_display": "2026-07-27 to 2026-09-22",
+   "date_sort": "2026-07-27",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0296": {
+   "id": "EV-0296",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Furniture and movable property from Great House Farm (13 Jul 2026–8 Sep 2026)",
+   "date_display": "2026-08-14 to 2026-11-04",
+   "date_sort": "2026-08-14",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0297": {
+   "id": "EV-0297",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Schedule of Great House Farm and predecessor-museum records (8 Sep 2026–12 Oct 2026)",
+   "date_display": "2026-09-08 to 2026-10-12",
+   "date_sort": "2026-09-08",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0298": {
+   "id": "EV-0298",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Other archaeological discoveries at Great House/Church Farm (22 Sep 2026–28 Sep 2026)",
+   "date_display": "2026-09-27 to 2026-09-28",
+   "date_sort": "2026-09-27",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0299": {
+   "id": "EV-0299",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Recorded basis for excluding records as out of scope (10 Oct 2026–16 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-16",
+   "date_sort": "2026-10-10",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0300": {
+   "id": "EV-0300",
+   "kind": "evidence",
+   "title": "Amgueddfa Cymru – Museum Wales: Published reports of medieval ironwork in Museum collections (19 Oct 2026–20 Oct 2026)",
+   "date_display": "2026-10-19 to 2026-10-29",
+   "date_sort": "2026-10-19",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0301": {
+   "id": "EV-0301",
+   "kind": "evidence",
+   "title": "Archaeology Data Service: Great House Farm archive records enquiry (19 Oct 2026–21 Oct 2026)",
+   "date_display": "2026-10-19 to 2026-11-03",
+   "date_sort": "2026-10-19",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0302": {
+   "id": "EV-0302",
+   "kind": "evidence",
+   "title": "Audit Wales: Audit records of Great House Farm land dealings (20 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-29",
+   "date_sort": "2026-10-20",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0303": {
+   "id": "EV-0303",
+   "kind": "evidence",
+   "title": "BP: Pre-action notice on 1987 appeal case (28 Jan 2026)",
+   "date_display": "2026-01-28",
+   "date_sort": "2026-01-28",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0304": {
+   "id": "EV-0304",
+   "kind": "evidence",
+   "title": "BP: Allegations of historical dispossession and misconduct (9 May 2026)",
+   "date_display": "2026-05-09",
+   "date_sort": "2026-05-09",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0305": {
+   "id": "EV-0305",
+   "kind": "evidence",
+   "title": "BP: Request for 1988 eviction records and litigation hold (7 Jun 2026)",
+   "date_display": "2026-06-07",
+   "date_sort": "2026-06-07",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0306": {
+   "id": "EV-0306",
+   "kind": "evidence",
+   "title": "BP: Archive reading room request for property records (15 Aug 2026–25 Aug 2026)",
+   "date_display": "2026-08-15 to 2026-08-25",
+   "date_sort": "2026-08-15",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0307": {
+   "id": "EV-0307",
+   "kind": "evidence",
+   "title": "BP: Preservation notice to multiple record holders (28 Sep 2026)",
+   "date_display": "2026-09-28",
+   "date_sort": "2026-09-28",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0308": {
+   "id": "EV-0308",
+   "kind": "evidence",
+   "title": "BP: Preservation notice for litigation and demolition records (16 Oct 2026)",
+   "date_display": "2026-10-16 to 2026-10-31",
+   "date_sort": "2026-10-16",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0309": {
+   "id": "EV-0309",
+   "kind": "evidence",
+   "title": "BP: Enquiry on property and litigation records 1969-1993 (19 Oct 2026)",
+   "date_display": "2026-10-19 to 2026-10-29",
+   "date_sort": "2026-10-19",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0310": {
+   "id": "EV-0310",
+   "kind": "evidence",
+   "title": "BT Archives: Great House Farm telephone and wayleave records enquiry (10 Aug 2026–20 Oct 2026)",
+   "date_display": "2026-10-20",
+   "date_sort": "2026-10-20",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0311": {
+   "id": "EV-0311",
+   "kind": "evidence",
+   "title": "Blake Morgan LLP: Preservation notice and records enquiry, Great House Farm (20 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-29",
+   "date_sort": "2026-10-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0312": {
+   "id": "EV-0312",
+   "kind": "evidence",
+   "title": "Cardiff / Vale Register Office: Death certificate location enquiry for two individuals (20 Aug 2026–30 Sep 2026)",
+   "date_display": "2026-08-20 to 2026-09-30",
+   "date_sort": "2026-08-20",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0313": {
+   "id": "EV-0313",
+   "kind": "evidence",
+   "title": "Cardiff and Vale University Health Board: Historical death records enquiry to Medical Examiner Service (20 Aug 2026–21 Aug 2026)",
+   "date_display": "2026-08-20 to 2026-08-21",
+   "date_sort": "2026-08-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0314": {
+   "id": "EV-0314",
+   "kind": "evidence",
+   "title": "Cardiff and Vale University Health Board: Access to deceased patients’ health records request (20 Aug 2026–21 Aug 2026)",
+   "date_display": "2026-08-20 to 2026-11-04",
+   "date_sort": "2026-08-20",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0315": {
+   "id": "EV-0315",
+   "kind": "evidence",
+   "title": "Cardiff and Vale University Health Board: Follow-up with Information Governance Manager on record custody (24 Aug 2026)",
+   "date_display": "2026-08-24",
+   "date_sort": "2026-08-24",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0316": {
+   "id": "EV-0316",
+   "kind": "evidence",
+   "title": "Church of England archives (Lambeth Palace Library): Llandough glebe and Bute Estate records enquiry (20 Oct 2026)",
+   "date_display": "2026-10-20",
+   "date_sort": "2026-10-20",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0317": {
+   "id": "EV-0317",
+   "kind": "evidence",
+   "title": "Coroner’s Service (RCT Council): FOI request for two historical death records (20 Aug 2026–21 Aug 2026)",
+   "date_display": "2026-08-20 to 2026-10-22",
+   "date_sort": "2026-08-20",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0318": {
+   "id": "EV-0318",
+   "kind": "evidence",
+   "title": "Coroner’s Service (RCT Council): Non-FOI enquiry into coroner referral records (21 Aug 2026–26 Aug 2026)",
+   "date_display": "2026-08-26 to 2026-10-26",
+   "date_sort": "2026-08-26",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0319": {
+   "id": "EV-0319",
+   "kind": "evidence",
+   "title": "Cotswold Archaeology: Request for 1994 excavation archive records (10 Oct 2026–19 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-19",
+   "date_sort": "2026-10-10",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0320": {
+   "id": "EV-0320",
+   "kind": "evidence",
+   "title": "Crown Prosecution Service: Request for CPS to consider historic misconduct evidence (3 Sep 2026–21 Oct 2026)",
+   "date_display": "2026-09-03 to 2026-10-26",
+   "date_sort": "2026-09-03",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0321": {
+   "id": "EV-0321",
+   "kind": "evidence",
+   "title": "Defra: FOI/EIR request for Great House Farm MAF records (20 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-29",
+   "date_sort": "2026-10-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0322": {
+   "id": "EV-0322",
+   "kind": "evidence",
+   "title": "Dwr Cymru Welsh Water: Initial EIR request for farm water records (7 Jun 2026)",
+   "date_display": "2026-06-07 to 2026-11-06",
+   "date_sort": "2026-06-07",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0323": {
+   "id": "EV-0323",
+   "kind": "evidence",
+   "title": "Dwr Cymru Welsh Water: Combined FOI/SAR/EIR request on farm water records (20 Jun 2026–29 Sep 2026)",
+   "date_display": "2026-06-20 to 2026-09-29",
+   "date_sort": "2026-06-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0324": {
+   "id": "EV-0324",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Epexio contact us form submission (6 Feb 2026–23 Feb 2026)",
+   "date_display": "2026-02-06 to 2026-02-23",
+   "date_sort": "2026-02-06",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0325": {
+   "id": "EV-0325",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Great House Farm, Llandough, Nr Penarth, Vale of Glamorgan (26 May 2026–29 May 2026)",
+   "date_display": "2026-05-26 to 2026-05-29",
+   "date_sort": "2026-05-26",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0326": {
+   "id": "EV-0326",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: FORMAL DISCLOSURE NOTICE & LITIGATION HOLD: Historic Significance, Planning Approvals, and Displaced Family Tenancy Reco (29 May 2026–11 Jun 2026)",
+   "date_display": "2026-05-29 to 2026-06-11",
+   "date_sort": "2026-05-29",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0327": {
+   "id": "EV-0327",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Great House Farm – Williams/ (5 Jun 2026)",
+   "date_display": "2026-06-05",
+   "date_sort": "2026-06-05",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0328": {
+   "id": "EV-0328",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Great House Farm, Llandough (7 Jun 2026–15 Jun 2026)",
+   "date_display": "2026-06-07 to 2026-06-15",
+   "date_sort": "2026-06-07",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0329": {
+   "id": "EV-0329",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Enquiry re: Great House Farm / Ty Mawr, Llandough – Plot references 36.792 & 70/1.334 (Williams / family, 1876 a (27 Jun 2026)",
+   "date_display": "2026-06-27",
+   "date_sort": "2026-06-27",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0330": {
+   "id": "EV-0330",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Great House Farm, Llandough | Cardiff Castle Furniture (2 Jul 2026)",
+   "date_display": "2026-07-02",
+   "date_sort": "2026-07-02",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0331": {
+   "id": "EV-0331",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Freedom of Information / Historical Records Request – Mr. Williams, Cardiff Post Office Engineering Department, 1897 Mar (16 Jul 2026–24 Jul 2026)",
+   "date_display": "2026-07-16 to 2026-07-24",
+   "date_sort": "2026-07-16",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0332": {
+   "id": "EV-0332",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Great House Farm, Llandough, Cardiff (27 Jul 2026–5 Aug 2026)",
+   "date_display": "2026-07-27 to 2026-08-05",
+   "date_sort": "2026-07-27",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0333": {
+   "id": "EV-0333",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Request for burial / parish register entries – William (1990) and related records (Mary Doreen Williams) (20 Aug 2026–24 Aug 2026)",
+   "date_display": "2026-08-20 to 2026-10-21",
+   "date_sort": "2026-08-20",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0334": {
+   "id": "EV-0334",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Application for copy death certificates – William (1990) and Mary Doreen Williams (1983) (21 Aug 2026–10 Sep 2026)",
+   "date_display": "2026-08-21 to 2026-09-10",
+   "date_sort": "2026-08-21",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0335": {
+   "id": "EV-0335",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Ty Mawr, Llandough, Cardiff (22 Aug 2026–30 Sep 2026)",
+   "date_display": "2026-08-22 to 2026-11-06",
+   "date_sort": "2026-08-22",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0336": {
+   "id": "EV-0336",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: DBDT79/1 – physical examination of the original (26 Aug 2026–14 Sep 2026)",
+   "date_display": "2026-08-26 to 2026-09-14",
+   "date_sort": "2026-08-26",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0337": {
+   "id": "EV-0337",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Epexio contact us form submission (7 Sep 2026–27 Sep 2026)",
+   "date_display": "2026-09-07 to 2026-10-21",
+   "date_sort": "2026-09-07",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0338": {
+   "id": "EV-0338",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Enquiry — does D153/1–8 contain a c.1875–1880 Llandough-juxta-Penarth instrument? (16 Sep 2026–10 Oct 2026)",
+   "date_display": "2026-09-16 to 2026-10-10",
+   "date_sort": "2026-09-16",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0339": {
+   "id": "EV-0339",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: South Wales Constabulary records, November–December 1988 — Great House Farm, Llandough (27 Sep 2026)",
+   "date_display": "2026-09-27 to 2026-10-22",
+   "date_sort": "2026-09-27",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0340": {
+   "id": "EV-0340",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: 2026/4274 — thank you; D153 at NLW; source of DRA/11/120 note (10 Oct 2026)",
+   "date_display": "2026-10-10",
+   "date_sort": "2026-10-10",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0341": {
+   "id": "EV-0341",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Bute X.6(12) — 1877 Bute trustee accounts/receipts and possible Great House Farm / Llandough transaction (10 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-23",
+   "date_sort": "2026-10-10",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0342": {
+   "id": "EV-0342",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Mary Doreen Williams — death registration — request passed from Vale of Glamorgan Registration Service on 30 September 2 (10 Oct 2026–13 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-13",
+   "date_sort": "2026-10-10",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0343": {
+   "id": "EV-0343",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Location request — Llandough-juxta-Penarth parish, vestry and tithe records — Great House / Ty Mawr — not a viewing requ (10 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-11-06",
+   "date_sort": "2026-10-10",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0344": {
+   "id": "EV-0344",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Location and content request — Glamorgan land tax assessments DBJ/O/90-94 (1691–1707) — Llandough-juxta-Penarth — not a (15 Oct 2026)",
+   "date_display": "2026-10-15",
+   "date_sort": "2026-10-15",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0345": {
+   "id": "EV-0345",
+   "kind": "evidence",
+   "title": "Glamorgan Archives: Enquiry – original South Glamorgan “County Treasures” inventory: entry for Great House Farm / Tŷ Mawr, Llandough (19 Oct 2026)",
+   "date_display": "2026-10-19",
+   "date_sort": "2026-10-19",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0346": {
+   "id": "EV-0346",
+   "kind": "evidence",
+   "title": "Government Legal Department (Bona Vacantia): Bona vacantia interests of Western Ground Rents Ltd (20 Oct 2026–21 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-31",
+   "date_sort": "2026-10-20",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0347": {
+   "id": "EV-0347",
+   "kind": "evidence",
+   "title": "HM Land Registry: Application to Record or Rectify Interest Omitted at First Registration (29 Jan 2026)",
+   "date_display": "2026-01-29",
+   "date_sort": "2026-01-29",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0348": {
+   "id": "EV-0348",
+   "kind": "evidence",
+   "title": "HM Land Registry: Request for review of potential irregularities in 1982 land registration (31 Jan 2026)",
+   "date_display": "2026-01-31",
+   "date_sort": "2026-01-31",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0349": {
+   "id": "EV-0349",
+   "kind": "evidence",
+   "title": "HM Land Registry: FORMAL ALLEGATION OF misconduct: Ref: 260202-5732372 (5 Feb 2026–6 Feb 2026)",
+   "date_display": "2026-02-05 to 2026-02-06",
+   "date_sort": "2026-02-05",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0350": {
+   "id": "EV-0350",
+   "kind": "evidence",
+   "title": "HM Land Registry: Subject: Freedom of Information Request – Ty Mawr (Great House), Llandough, near Penarth (1938-1987) (16 Feb 2026–13 Apr 2026)",
+   "date_display": "2026-02-16 to 2026-10-29",
+   "date_sort": "2026-02-16",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0351": {
+   "id": "EV-0351",
+   "kind": "evidence",
+   "title": "HM Land Registry: Your Ref: EDD Our Ref: WA231076/A/216/LG (13 Feb 2026–24 Mar 2026)",
+   "date_display": "2026-03-24",
+   "date_sort": "2026-03-24",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0352": {
+   "id": "EV-0352",
+   "kind": "evidence",
+   "title": "HM Land Registry: Subject: Stage Two Complaint – Title WA231076 – asserted Mistake in the Register (19 Apr 2026–3 May 2026)",
+   "date_display": "2026-04-19 to 2026-05-03",
+   "date_sort": "2026-04-19",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0353": {
+   "id": "EV-0353",
+   "kind": "evidence",
+   "title": "HM Land Registry: Your Ref: EDD Our Ref: WA231076/A/216/KH (21 Apr 2026–13 Jul 2026)",
+   "date_display": "2026-04-21 to 2026-07-13",
+   "date_sort": "2026-04-21",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0354": {
+   "id": "EV-0354",
+   "kind": "evidence",
+   "title": "HM Land Registry: Your Ref: EDD Our Ref: WA231076/A/216/MC (25 May 2026–26 May 2026)",
+   "date_display": "2026-05-26",
+   "date_sort": "2026-05-26",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0355": {
+   "id": "EV-0355",
+   "kind": "evidence",
+   "title": "HM Land Registry: Request for Clarification of Correspondence – Title WA231076 (2 Jun 2026)",
+   "date_display": "2026-06-02",
+   "date_sort": "2026-06-02",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0356": {
+   "id": "EV-0356",
+   "kind": "evidence",
+   "title": "HM Land Registry: records enquiry (3 Jun 2026)",
+   "date_display": "2026-06-03",
+   "date_sort": "2026-06-03",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0357": {
+   "id": "EV-0357",
+   "kind": "evidence",
+   "title": "HM Land Registry: Ref: WA231076 / WA240304 (3 Jun 2026)",
+   "date_display": "2026-06-03",
+   "date_sort": "2026-06-03",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0358": {
+   "id": "EV-0358",
+   "kind": "evidence",
+   "title": "HM Land Registry: WA231076 / WA240304 – request to confirm scope of first registration file records (3 Jun 2026)",
+   "date_display": "2026-06-03",
+   "date_sort": "2026-06-03",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0359": {
+   "id": "EV-0359",
+   "kind": "evidence",
+   "title": "HM Land Registry: last email (3 Jun 2026)",
+   "date_display": "2026-06-03",
+   "date_sort": "2026-06-03",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0360": {
+   "id": "EV-0360",
+   "kind": "evidence",
+   "title": "HM Land Registry: Request for Preservation of Records – WA231076 / WA240304 (First Registration Files) (3 Jun 2026)",
+   "date_display": "2026-06-03",
+   "date_sort": "2026-06-03",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0361": {
+   "id": "EV-0361",
+   "kind": "evidence",
+   "title": "HM Land Registry: Your Ref: EDD Our Ref: WA231076/A/216/SH (30 Jul 2026–12 Aug 2026)",
+   "date_display": "2026-07-30 to 2026-08-12",
+   "date_sort": "2026-07-30",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0362": {
+   "id": "EV-0362",
+   "kind": "evidence",
+   "title": "HM Land Registry: Unanswered clarification — N610CGV / WA231076 & WA240304 — emails of 26 May, 2–3 June, 30 July and 12 August 2026 (16 Sep 2026)",
+   "date_display": "2026-09-16",
+   "date_sort": "2026-09-16",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0363": {
+   "id": "EV-0363",
+   "kind": "evidence",
+   "title": "HM Land Registry: 2 of 2 – Unanswered clarification — N610CGV / WA231076 & WA240304 — emails of 26 May, 2–3 June, 30 July and 12 August 20 (16 Sep 2026)",
+   "date_display": "2026-09-16",
+   "date_sort": "2026-09-16",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0364": {
+   "id": "EV-0364",
+   "kind": "evidence",
+   "title": "HM Land Registry: N610CGV — WA231076 / WA240304 (18 Sep 2026)",
+   "date_display": "2026-09-18",
+   "date_sort": "2026-09-18",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0365": {
+   "id": "EV-0365",
+   "kind": "evidence",
+   "title": "HM Land Registry: N610CGV — request for electronic copies of listed first-registration documents (WA240304 / WA231076) (22 Sep 2026)",
+   "date_display": "2026-09-22",
+   "date_sort": "2026-09-22",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0366": {
+   "id": "EV-0366",
+   "kind": "evidence",
+   "title": "HM Land Registry: Great House Farm, Llandough (27 Sep 2026–29 Sep 2026)",
+   "date_display": "2026-09-27 to 2026-09-29",
+   "date_sort": "2026-09-27",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0367": {
+   "id": "EV-0367",
+   "kind": "evidence",
+   "title": "HM Land Registry: Subject access request — WA231076 / WA240304 — Great House Farm, Llandough — Williams / (28 Sep 2026–20 Oct 2026)",
+   "date_display": "2026-09-28 to 2026-11-06",
+   "date_sort": "2026-09-28",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0368": {
+   "id": "EV-0368",
+   "kind": "evidence",
+   "title": "HM Land Registry: N610CGV — WA231076 / WA240304 — 1924–1930 instruments and any closed parent title (7 Oct 2026)",
+   "date_display": "2026-10-07",
+   "date_sort": "2026-10-07",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0369": {
+   "id": "EV-0369",
+   "kind": "evidence",
+   "title": "HM Land Registry: Z084NQV / N610CGV – WA240304 and WA231076 – application to alter the register (Schedule 4 LRA 2002) and follow-up on the (15 Oct 2026)",
+   "date_display": "2026-10-15",
+   "date_sort": "2026-10-15",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0370": {
+   "id": "EV-0370",
+   "kind": "evidence",
+   "title": "HM Land Registry (Independent Complaints Reviewer): Independent review of HM Land Registry complaint handling (26 Sep 2026–21 Oct 2026)",
+   "date_display": "2026-09-26 to 2026-10-21",
+   "date_sort": "2026-09-26",
+   "status": "complaint outcome",
+   "page": null
+  },
+  "EV-0371": {
+   "id": "EV-0371",
+   "kind": "evidence",
+   "title": "Heneb (formerly GGAT) / Historic Environment Record: Initial enquiry about Heneb’s FOI status (22 May 2026–29 May 2026)",
+   "date_display": "2026-05-23 to 2026-05-29",
+   "date_sort": "2026-05-23",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0372": {
+   "id": "EV-0372",
+   "kind": "evidence",
+   "title": "Heneb (formerly GGAT) / Historic Environment Record: HER source file request for Great House Farm (8 Sep 2026–19 Oct 2026)",
+   "date_display": "2026-09-08 to 2026-11-04",
+   "date_sort": "2026-09-08",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0373": {
+   "id": "EV-0373",
+   "kind": "evidence",
+   "title": "Heneb (formerly GGAT) / Historic Environment Record: 1983 fire and archive custody records request (24 Sep 2026–27 Sep 2026)",
+   "date_display": "2026-09-24 to 2026-11-04",
+   "date_sort": "2026-09-24",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0374": {
+   "id": "EV-0374",
+   "kind": "evidence",
+   "title": "Heneb (formerly GGAT) / Historic Environment Record: Formal complaint on HER identifiers and GGAT role (27 Sep 2026–30 Sep 2026)",
+   "date_display": "2026-09-27 to 2026-10-28",
+   "date_sort": "2026-09-27",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0375": {
+   "id": "EV-0375",
+   "kind": "evidence",
+   "title": "Historic England: Records of Great House Farm / Tŷ Mawr transfer (20 Oct 2026–21 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-29",
+   "date_sort": "2026-10-20",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0376": {
+   "id": "EV-0376",
+   "kind": "evidence",
+   "title": "ITV Archive: Documentary project proposal and financing enquiry (28 Oct 2025)",
+   "date_display": "2025-10-28",
+   "date_sort": "2025-10-28",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0377": {
+   "id": "EV-0377",
+   "kind": "evidence",
+   "title": "ITV Archive: Preservation notice sent to ITV news desks (28 Sep 2026)",
+   "date_display": "2026-09-28",
+   "date_sort": "2026-09-28",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0378": {
+   "id": "EV-0378",
+   "kind": "evidence",
+   "title": "ITV Archive: Archive search request to clip sales inbox (10 Oct 2026)",
+   "date_display": "2026-10-10",
+   "date_sort": "2026-10-10",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0379": {
+   "id": "EV-0379",
+   "kind": "evidence",
+   "title": "ITV Archive: Archive search request to viewer requests team (10 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-29",
+   "date_sort": "2026-10-10",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0380": {
+   "id": "EV-0380",
+   "kind": "evidence",
+   "title": "ITV Archive: Archive enquiry handled by ITV Wales archive contacts (13 Oct 2026–16 Oct 2026)",
+   "date_display": "2026-10-16 to 2026-10-29",
+   "date_sort": "2026-10-16",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0381": {
+   "id": "EV-0381",
+   "kind": "evidence",
+   "title": "Information Commissioner’s Office: Assistance request over historic land record access (21 Jul 2026)",
+   "date_display": "2026-07-21",
+   "date_sort": "2026-07-21",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0382": {
+   "id": "EV-0382",
+   "kind": "evidence",
+   "title": "Legal regulators: Inquiry on historical land dispute relevance (31 Jan 2026)",
+   "date_display": "2026-01-31",
+   "date_sort": "2026-01-31",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0383": {
+   "id": "EV-0383",
+   "kind": "evidence",
+   "title": "Legal regulators: Conveyancing and registration practice concern (31 Jan 2026)",
+   "date_display": "2026-01-31",
+   "date_sort": "2026-01-31",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0384": {
+   "id": "EV-0384",
+   "kind": "evidence",
+   "title": "Legal regulators: Personal narrative on historical farm dispute (4 Feb 2026)",
+   "date_display": "2026-02-04",
+   "date_sort": "2026-02-04",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0385": {
+   "id": "EV-0385",
+   "kind": "evidence",
+   "title": "Legal regulators: Enquiry on barristers and record preservation (16 Oct 2026)",
+   "date_display": "2026-10-16",
+   "date_sort": "2026-10-16",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0386": {
+   "id": "EV-0386",
+   "kind": "evidence",
+   "title": "Linklaters: Request for historical property file records (10 Oct 2026)",
+   "date_display": "2026-10-10",
+   "date_sort": "2026-10-10",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0387": {
+   "id": "EV-0387",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Request for assistance in BP v Buckler matter (20 Nov 2025)",
+   "date_display": "2025-11-20",
+   "date_sort": "2025-11-20",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0388": {
+   "id": "EV-0388",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Initial request for all Great House Farm records (18 May 2026–14 Jun 2026)",
+   "date_display": "2026-05-18 to 2026-06-14",
+   "date_sort": "2026-05-18",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0389": {
+   "id": "EV-0389",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Heritage research email to the council chair (20 Sep 2026)",
+   "date_display": "2026-09-20",
+   "date_sort": "2026-09-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0390": {
+   "id": "EV-0390",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Narrower request for post-2002 property records (21 Sep 2026–11 Oct 2026)",
+   "date_display": "2026-09-21 to 2026-10-11",
+   "date_sort": "2026-09-21",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0391": {
+   "id": "EV-0391",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Internal review of section 12 refusal and SAR (13 Oct 2026–16 Oct 2026)",
+   "date_display": "2026-10-13 to 2026-10-16",
+   "date_sort": "2026-10-13",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0392": {
+   "id": "EV-0392",
+   "kind": "evidence",
+   "title": "Llandough Community Council: Correspondence on 22 October council meeting access (13 Oct 2026–20 Oct 2026)",
+   "date_display": "2026-10-16 to 2026-10-29",
+   "date_sort": "2026-10-16",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0393": {
+   "id": "EV-0393",
+   "kind": "evidence",
+   "title": "Llandough Community Council: New narrower request after cost limit refusal (20 Oct 2026)",
+   "date_display": "2026-10-20",
+   "date_sort": "2026-10-20",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0394": {
+   "id": "EV-0394",
+   "kind": "evidence",
+   "title": "Local Government Association / WLGA: LGA guidance on disputed land titles (20 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-10-29",
+   "date_sort": "2026-10-20",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0395": {
+   "id": "EV-0395",
+   "kind": "evidence",
+   "title": "Local Government Association / WLGA: WLGA records on Llandough land allocation (20 Oct 2026)",
+   "date_display": "2026-10-20",
+   "date_sort": "2026-10-20",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0396": {
+   "id": "EV-0396",
+   "kind": "evidence",
+   "title": "Member of Parliament: Formal disclosure notice and litigation hold request (29 May 2026–31 May 2026)",
+   "date_display": "2026-05-31",
+   "date_sort": "2026-05-31",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0397": {
+   "id": "EV-0397",
+   "kind": "evidence",
+   "title": "Member of Parliament: Personal letter on property history and constituency (12 Jun 2026–13 Jul 2026)",
+   "date_display": "2026-06-12 to 2026-07-13",
+   "date_sort": "2026-06-12",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0398": {
+   "id": "EV-0398",
+   "kind": "evidence",
+   "title": "Member of Parliament: Complaint of maladministration on enforcement process (25 Jun 2026)",
+   "date_display": "2026-06-25",
+   "date_sort": "2026-06-25",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0399": {
+   "id": "EV-0399",
+   "kind": "evidence",
+   "title": "Member of Parliament: Formal complaint about lack of substantive reply (27 Jul 2026–20 Aug 2026)",
+   "date_display": "2026-07-27 to 2026-08-20",
+   "date_sort": "2026-07-27",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0400": {
+   "id": "EV-0400",
+   "kind": "evidence",
+   "title": "Member of Parliament: Broader letter to elected representatives on land history (28 Aug 2026–27 Sep 2026)",
+   "date_display": "2026-08-28 to 2026-09-27",
+   "date_sort": "2026-08-28",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0401": {
+   "id": "EV-0401",
+   "kind": "evidence",
+   "title": "Member of Parliament: Forwarded Land Registry response and follow-up queries (18 Sep 2026–20 Oct 2026)",
+   "date_display": "2026-09-19 to 2026-10-20",
+   "date_sort": "2026-09-19",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0402": {
+   "id": "EV-0402",
+   "kind": "evidence",
+   "title": "Member of Parliament: Two questions for HM Land Registry on registration (19 Sep 2026)",
+   "date_display": "2026-09-19",
+   "date_sort": "2026-09-19",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0403": {
+   "id": "EV-0403",
+   "kind": "evidence",
+   "title": "Member of Parliament: Chase for MoJ reply and Land Registry file (27 Sep 2026)",
+   "date_display": "2026-09-27",
+   "date_sort": "2026-09-27",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0404": {
+   "id": "EV-0404",
+   "kind": "evidence",
+   "title": "Member of Parliament: Follow-up on Ministry of Justice reply and casework log (10 Oct 2026)",
+   "date_display": "2026-10-10",
+   "date_sort": "2026-10-10",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0405": {
+   "id": "EV-0405",
+   "kind": "evidence",
+   "title": "Member of Parliament (Vale of Glamorgan): Request for assistance reviewing 1987 land case (14 Nov 2025–17 Nov 2025)",
+   "date_display": "2025-11-14 to 2025-11-17",
+   "date_sort": "2025-11-14",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0406": {
+   "id": "EV-0406",
+   "kind": "evidence",
+   "title": "Member of Parliament (Vale of Glamorgan): Request for parliamentary inquiry into farm land case (1 Feb 2026–4 Feb 2026)",
+   "date_display": "2026-02-04",
+   "date_sort": "2026-02-04",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0407": {
+   "id": "EV-0407",
+   "kind": "evidence",
+   "title": "Member of Parliament (Vale of Glamorgan): Introduction of historical archive project (24 Sep 2026)",
+   "date_display": "2026-09-24",
+   "date_sort": "2026-09-24",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0408": {
+   "id": "EV-0408",
+   "kind": "evidence",
+   "title": "Ministry of Defence: Great House Farm 1988 dispossession FOI request (29 May 2026–14 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-30",
+   "date_sort": "2026-10-10",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0409": {
+   "id": "EV-0409",
+   "kind": "evidence",
+   "title": "Ministry of Defence: Non-Special-Forces records clarification request (15 Oct 2026–16 Oct 2026)",
+   "date_display": "2026-10-16 to 2026-10-21",
+   "date_sort": "2026-10-16",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0410": {
+   "id": "EV-0410",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Pre-action notice on Great House Farm proceedings (29 Apr 2026)",
+   "date_display": "2026-04-29",
+   "date_sort": "2026-04-29",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0411": {
+   "id": "EV-0411",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: FOI request: historical court records location (ref 260607013) (7 Jun 2026–22 Jun 2026)",
+   "date_display": "2026-06-07 to 2026-06-22",
+   "date_sort": "2026-06-07",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0412": {
+   "id": "EV-0412",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: FOI request: Mary Williams probate records (7 Jun 2026–1 Oct 2026)",
+   "date_display": "2026-06-07 to 2026-10-29",
+   "date_sort": "2026-06-07",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0413": {
+   "id": "EV-0413",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Records enquiry: Great House Farm court records (10 Jun 2026–24 Aug 2026)",
+   "date_display": "2026-06-10 to 2026-08-24",
+   "date_sort": "2026-06-10",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0414": {
+   "id": "EV-0414",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Subject access request for personal data (30 Jun 2026–2 Jul 2026)",
+   "date_display": "2026-06-30 to 2026-07-02",
+   "date_sort": "2026-06-30",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0415": {
+   "id": "EV-0415",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: FOI request: 1989 criminal proceedings records (5 Aug 2026)",
+   "date_display": "2026-08-05 to 2026-10-29",
+   "date_sort": "2026-08-05",
+   "status": "no reply by deadline",
+   "page": null
+  },
+  "EV-0416": {
+   "id": "EV-0416",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Preservation notice: Great House Farm records (28 Sep 2026–20 Oct 2026)",
+   "date_display": "2026-10-19 to 2026-10-20",
+   "date_sort": "2026-10-19",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0417": {
+   "id": "EV-0417",
+   "kind": "evidence",
+   "title": "Mount Stuart (Bute archive): Research visit request for Llandough estate records (15 Oct 2026–19 Oct 2026)",
+   "date_display": "2026-10-15 to 2026-10-29",
+   "date_sort": "2026-10-15",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0418": {
+   "id": "EV-0418",
+   "kind": "evidence",
+   "title": "National Library of Wales: Video footage access enquiry (30 Apr 2026)",
+   "date_display": "2026-04-30 to 2026-10-31",
+   "date_sort": "2026-04-30",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0419": {
+   "id": "EV-0419",
+   "kind": "evidence",
+   "title": "National Library of Wales: Bute Estate records research enquiry (7 Jun 2026–19 Jun 2026)",
+   "date_display": "2026-06-07 to 2026-06-19",
+   "date_sort": "2026-06-07",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0420": {
+   "id": "EV-0420",
+   "kind": "evidence",
+   "title": "National Library of Wales: FOI request on farm furniture provenance records (3 Jul 2026–10 Oct 2026)",
+   "date_display": "2026-07-20 to 2026-10-29",
+   "date_sort": "2026-07-20",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0421": {
+   "id": "EV-0421",
+   "kind": "evidence",
+   "title": "National Library of Wales: FOI request on pre-1670 manorial records (27 Jul 2026–29 Jul 2026)",
+   "date_display": "2026-07-27 to 2026-10-29",
+   "date_sort": "2026-07-27",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0422": {
+   "id": "EV-0422",
+   "kind": "evidence",
+   "title": "National Library of Wales: Research enquiry on 1877 and 1916 Bute transactions (27 Sep 2026–19 Oct 2026)",
+   "date_display": "2026-09-27 to 2026-10-29",
+   "date_sort": "2026-09-27",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0423": {
+   "id": "EV-0423",
+   "kind": "evidence",
+   "title": "National Library of Wales: FOI request on 1610 survey and microfilm records (15 Oct 2026)",
+   "date_display": "2026-10-15 to 2026-11-06",
+   "date_sort": "2026-10-15",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0424": {
+   "id": "EV-0424",
+   "kind": "evidence",
+   "title": "Ordnance Survey: Historical OS mapping records for Ty Mawr farm (27 Jun 2026–20 Oct 2026)",
+   "date_display": "2026-06-27 to 2026-11-06",
+   "date_sort": "2026-06-27",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0425": {
+   "id": "EV-0425",
+   "kind": "evidence",
+   "title": "Parliamentary and Health Service Ombudsman: Inquiry on land registration maladministration remit (14 Nov 2025–31 Jan 2026)",
+   "date_display": "2026-01-31",
+   "date_sort": "2026-01-31",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0426": {
+   "id": "EV-0426",
+   "kind": "evidence",
+   "title": "Parliamentary and Health Service Ombudsman: Complaint on Great House Farm enforcement and demolition (25 Jun 2026–20 Jul 2026)",
+   "date_display": "2026-06-25 to 2026-07-20",
+   "date_sort": "2026-06-25",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0427": {
+   "id": "EV-0427",
+   "kind": "evidence",
+   "title": "Persimmon Homes: Preservation and disclosure request for Church View Close records (27 Sep 2026–20 Oct 2026)",
+   "date_display": "2026-09-27 to 2026-10-29",
+   "date_sort": "2026-09-27",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0428": {
+   "id": "EV-0428",
+   "kind": "evidence",
+   "title": "Public Administration and Constitutional Affairs Committee: Historic land registration governance concern submission (31 Jan 2026–5 Feb 2026)",
+   "date_display": "2026-01-31 to 2026-02-05",
+   "date_sort": "2026-01-31",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0429": {
+   "id": "EV-0429",
+   "kind": "evidence",
+   "title": "RCAHMW (Royal Commission): Great House Farm archive holdings enquiry (26 Nov 2025)",
+   "date_display": "2025-11-26",
+   "date_sort": "2025-11-26",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0430": {
+   "id": "EV-0430",
+   "kind": "evidence",
+   "title": "RCAHMW (Royal Commission): Great House Farm archive details enquiry (22 May 2026–10 Jun 2026)",
+   "date_display": "2026-05-29 to 2026-06-10",
+   "date_sort": "2026-05-29",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0431": {
+   "id": "EV-0431",
+   "kind": "evidence",
+   "title": "RCAHMW (Royal Commission): Complaint on documentary history to senior official (2 Aug 2026)",
+   "date_display": "2026-08-02",
+   "date_sort": "2026-08-02",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0432": {
+   "id": "EV-0432",
+   "kind": "evidence",
+   "title": "RCAHMW (Royal Commission): FOI/EIR requests on ironwork, demolition and cataloguing (8 Sep 2026–13 Oct 2026)",
+   "date_display": "2026-09-08 to 2026-11-03",
+   "date_sort": "2026-09-08",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0433": {
+   "id": "EV-0433",
+   "kind": "evidence",
+   "title": "Senedd: Petition request for public inquiry into land dispute (16 Jan 2026–23 Feb 2026)",
+   "date_display": "2026-02-01 to 2026-02-23",
+   "date_sort": "2026-02-01",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0434": {
+   "id": "EV-0434",
+   "kind": "evidence",
+   "title": "Senedd: Political representation on Great House Farm dispute (11 May 2026–13 May 2026)",
+   "date_display": "2026-05-11 to 2026-05-13",
+   "date_sort": "2026-05-11",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0435": {
+   "id": "EV-0435",
+   "kind": "evidence",
+   "title": "Senedd: Committee scrutiny request on Cadw heritage decision (17 Jul 2026–28 Sep 2026)",
+   "date_display": "2026-09-17 to 2026-09-28",
+   "date_sort": "2026-09-17",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0436": {
+   "id": "EV-0436",
+   "kind": "evidence",
+   "title": "South Wales Police: FOI request 719/26 on 1988 Great House Farm policing (7 Jun 2026–2 Aug 2026)",
+   "date_display": "2026-06-07 to 2026-10-29",
+   "date_sort": "2026-06-07",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0437": {
+   "id": "EV-0437",
+   "kind": "evidence",
+   "title": "South Wales Police: FOI request on two family deaths (20 Aug 2026)",
+   "date_display": "2026-08-20",
+   "date_sort": "2026-08-20",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0438": {
+   "id": "EV-0438",
+   "kind": "evidence",
+   "title": "South Wales Police: Internal review of 719/26 and chase on death-records request (27 Sep 2026)",
+   "date_display": "2026-09-27 to 2026-10-31",
+   "date_sort": "2026-09-27",
+   "status": "review response (PDF locked, password not supplied)",
+   "page": null
+  },
+  "EV-0439": {
+   "id": "EV-0439",
+   "kind": "evidence",
+   "title": "South Wales Police: Subject access and crime-recording request (28 Sep 2026–29 Sep 2026)",
+   "date_display": "2026-09-28 to 2026-09-29",
+   "date_sort": "2026-09-28",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0440": {
+   "id": "EV-0440",
+   "kind": "evidence",
+   "title": "South Wales Police: FOI 1264/26 on 1988 operational records (22 Jun 2026–16 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-29",
+   "date_sort": "2026-10-10",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0441": {
+   "id": "EV-0441",
+   "kind": "evidence",
+   "title": "The National Archives: Enquiry on BP Properties Ltd v Buckler land dispute records (31 Jan 2026–8 Feb 2026)",
+   "date_display": "2026-01-31 to 2026-02-08",
+   "date_sort": "2026-01-31",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0442": {
+   "id": "EV-0442",
+   "kind": "evidence",
+   "title": "The National Archives: Preservation notice and enquiry on Church View Close and Manor of Llandough (10 Feb 2026–6 Mar 2026)",
+   "date_display": "2026-02-10 to 2026-03-06",
+   "date_sort": "2026-02-10",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0443": {
+   "id": "EV-0443",
+   "kind": "evidence",
+   "title": "The National Archives: FOI request for pre-1667 Great House Farm manorial records (27 Jul 2026–30 Jul 2026)",
+   "date_display": "2026-07-27 to 2026-07-30",
+   "date_sort": "2026-07-27",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0444": {
+   "id": "EV-0444",
+   "kind": "evidence",
+   "title": "The National Archives: Records enquiry and complaint on Great House Farm search terms (12 Aug 2026–20 Aug 2026)",
+   "date_display": "2026-08-12 to 2026-08-20",
+   "date_sort": "2026-08-12",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0445": {
+   "id": "EV-0445",
+   "kind": "evidence",
+   "title": "The National Archives: Internal review of Great House Farm FOI disclosure (25 Sep 2026–7 Oct 2026)",
+   "date_display": "2026-09-25 to 2026-10-31",
+   "date_sort": "2026-09-25",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0446": {
+   "id": "EV-0446",
+   "kind": "evidence",
+   "title": "The National Archives: FOI request for Valuation Office Survey 1910 location (10 Oct 2026–12 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-12",
+   "date_sort": "2026-10-10",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0447": {
+   "id": "EV-0447",
+   "kind": "evidence",
+   "title": "The National Archives: FOI location queries on Great House Farm estate records (14 Oct 2026–19 Oct 2026)",
+   "date_display": "2026-10-15 to 2026-10-29",
+   "date_sort": "2026-10-15",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0448": {
+   "id": "EV-0448",
+   "kind": "evidence",
+   "title": "The National Archives: FOI request for Glamorgan hearth tax roll details (15 Oct 2026)",
+   "date_display": "2026-10-15",
+   "date_sort": "2026-10-15",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0449": {
+   "id": "EV-0449",
+   "kind": "evidence",
+   "title": "The Postal Museum: Search for GPO and Marconi records at Great House Farm (24 Jul 2026–6 Aug 2026)",
+   "date_display": "2026-07-24 to 2026-08-06",
+   "date_sort": "2026-07-24",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0450": {
+   "id": "EV-0450",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: BP vs Buckler (14 Nov 2025–23 Nov 2025)",
+   "date_display": "2025-11-15 to 2025-11-23",
+   "date_sort": "2025-11-15",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0451": {
+   "id": "EV-0451",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Information Request – BP Properties Ltd v Buckler (1987) – Request Reference 00209998 (23 Dec 2025)",
+   "date_display": "2025-12-23",
+   "date_sort": "2025-12-23",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0452": {
+   "id": "EV-0452",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: BP v Buckler 1987 and the 1982 land registration of Great House Farm, Llandough (now Church View Close) (31 Jan 2026)",
+   "date_display": "2026-01-31",
+   "date_sort": "2026-01-31",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0453": {
+   "id": "EV-0453",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Title misconduct and Procedural Concealment – Church View Close, Llandough (formerly Great House Farm/ “Ty Mawr”) (16 Feb 2026)",
+   "date_display": "2026-02-16",
+   "date_sort": "2026-02-16",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0454": {
+   "id": "EV-0454",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Setting Aside BP vs Buckler 1987 on grounds of BP with our taken paper title and identity misconduct, court mistakes and (4 May 2026)",
+   "date_display": "2026-05-04",
+   "date_sort": "2026-05-04",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0455": {
+   "id": "EV-0455",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FORMAL DISCLOSURE NOTICE & LITIGATION HOLD: Historic Significance, Planning Approvals, and Displaced Family Tenancy (1 Jun 2026)",
+   "date_display": "2026-06-01",
+   "date_sort": "2026-06-01",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0456": {
+   "id": "EV-0456",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Church View Close, Llandough (7 Jun 2026)",
+   "date_display": "2026-06-07",
+   "date_sort": "2026-06-07",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0457": {
+   "id": "EV-0457",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Planning Permission Church View Close, Llandough (7 Jun 2026)",
+   "date_display": "2026-06-07",
+   "date_sort": "2026-06-07",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0458": {
+   "id": "EV-0458",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Great House Farm, Williams/ Family, Llandough, Vale of Glamorgan (12 Jun 2026–15 Jun 2026)",
+   "date_display": "2026-06-13 to 2026-06-15",
+   "date_sort": "2026-06-13",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0459": {
+   "id": "EV-0459",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Great House Farm, Llandough (25 Jun 2026)",
+   "date_display": "2026-06-25",
+   "date_sort": "2026-06-25",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0460": {
+   "id": "EV-0460",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: EIR/FOI request – 00210772 (Great House Farm / Church View Close, Llandough) – Further Clarification and Request for (27 May 2026–7 Oct 2026)",
+   "date_display": "2026-07-07 to 2026-10-07",
+   "date_sort": "2026-07-07",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0461": {
+   "id": "EV-0461",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Request for information regarding acquisition of land for Llandough Primary School (13 Jul 2026)",
+   "date_display": "2026-07-13",
+   "date_sort": "2026-07-13",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0462": {
+   "id": "EV-0462",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Great House Farm/ Church View Close (13 Jul 2026)",
+   "date_display": "2026-07-13",
+   "date_sort": "2026-07-13",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0463": {
+   "id": "EV-0463",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FOI/EIR request – Case Ref/ 00211027 (14 Jul 2026–14 Sep 2026)",
+   "date_display": "2026-07-14 to 2026-09-14",
+   "date_sort": "2026-07-14",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0464": {
+   "id": "EV-0464",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Complaint – Failure to Respond / Failure to Deal Properly with Case – Cllr George Carroll (Llandough) – Great House Farm (27 Jul 2026–24 Aug 2026)",
+   "date_display": "2026-07-27 to 2026-08-24",
+   "date_sort": "2026-07-27",
+   "status": "complaint outcome",
+   "page": null
+  },
+  "EV-0465": {
+   "id": "EV-0465",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Formal Governance and Integrity Notification — Great House Farm / Ty Mawr, Llandough (21 Aug 2026)",
+   "date_display": "2026-08-21",
+   "date_sort": "2026-08-21",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0466": {
+   "id": "EV-0466",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Complaint – Failure to Respond / Failure to Deal Properly with Case – Cllr George Carroll (Llandough) – Great House (21 Aug 2026)",
+   "date_display": "2026-08-21",
+   "date_sort": "2026-08-21",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0467": {
+   "id": "EV-0467",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Escalation — Llandough ward member silence: Great House Farm / Church View Close and removal of commemorative tree (10 Sep 2026–18 Sep 2026)",
+   "date_display": "2026-09-10 to 2026-09-18",
+   "date_sort": "2026-09-10",
+   "status": "complaint outcome",
+   "page": null
+  },
+  "EV-0468": {
+   "id": "EV-0468",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Commercial Guardianship Tenancy Interest: Historic Site Inquiry (13 Sep 2026)",
+   "date_display": "2026-09-13",
+   "date_sort": "2026-09-13",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0469": {
+   "id": "EV-0469",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FAO: Barry Preservation Society / the Civic Trust (17 Sep 2026)",
+   "date_display": "2026-09-17",
+   "date_sort": "2026-09-17",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0470": {
+   "id": "EV-0470",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Great House Farm, Llandough (17 Sep 2026)",
+   "date_display": "2026-09-17",
+   "date_sort": "2026-09-17",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0471": {
+   "id": "EV-0471",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Great House Farm, Llandough (89/01396/OUT) (18 Sep 2026)",
+   "date_display": "2026-09-18",
+   "date_sort": "2026-09-18",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0472": {
+   "id": "EV-0472",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FOI/EIR request – Case Ref/ 00211463 — clarification and refinement of request (17 Sep 2026–21 Sep 2026)",
+   "date_display": "2026-09-21 to 2026-10-29",
+   "date_sort": "2026-09-21",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0473": {
+   "id": "EV-0473",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: 00211484 — narrowed request — commemorative tree, Church View Close / Great House Farm (18 Sep 2026–18 Oct 2026)",
+   "date_display": "2026-09-28 to 2026-10-29",
+   "date_sort": "2026-09-28",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0474": {
+   "id": "EV-0474",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: death certificate (28 Sep 2026)",
+   "date_display": "2026-09-28",
+   "date_sort": "2026-09-28",
+   "status": "fee or clarification demand",
+   "page": null
+  },
+  "EV-0475": {
+   "id": "EV-0475",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Formal concern, preservation and subject access — Great House Farm (Tŷ Mawr), Llandough — remedy before escalation (28 Sep 2026)",
+   "date_display": "2026-09-28",
+   "date_sort": "2026-09-28",
+   "status": "no reply by deadline",
+   "page": null
+  },
+  "EV-0476": {
+   "id": "EV-0476",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FOI/EIR 00211557 and earlier requests – formal chase of three missing planning appendices (C, D and E) (10 Oct 2026)",
+   "date_display": "2026-10-10",
+   "date_sort": "2026-10-10",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0477": {
+   "id": "EV-0477",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Chase — Vale of Glamorgan FOI 00210772 internal review — 15 October 2026 (15 Oct 2026–18 Oct 2026)",
+   "date_display": "2026-10-15 to 2026-10-18",
+   "date_sort": "2026-10-15",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0478": {
+   "id": "EV-0478",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: FOI/EIR request – Case Ref/ 00211557 (30 Sep 2026–18 Oct 2026)",
+   "date_display": "2026-10-18 to 2026-10-29",
+   "date_sort": "2026-10-18",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0479": {
+   "id": "EV-0479",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council: Glamorgan County Council deed wallet 1756 (Llandough school site) – follow-up to FOI 00211027 (19 Oct 2026)",
+   "date_display": "2026-10-19 to 2026-10-29",
+   "date_sort": "2026-10-19",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0480": {
+   "id": "EV-0480",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council (Scrutiny): Personal correspondence on Great House Farm dispute (28 Sep 2026–5 Oct 2026)",
+   "date_display": "2026-09-28 to 2026-10-05",
+   "date_sort": "2026-09-28",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0481": {
+   "id": "EV-0481",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council (Scrutiny): Scrutiny review request on Great House Farm records (10 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-11-02",
+   "date_sort": "2026-10-10",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0482": {
+   "id": "EV-0482",
+   "kind": "evidence",
+   "title": "Vale of Glamorgan Council (Scrutiny): Forwarded Council meeting notice (14 Oct 2026)",
+   "date_display": "2026-10-14",
+   "date_sort": "2026-10-14",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0483": {
+   "id": "EV-0483",
+   "kind": "evidence",
+   "title": "Valuation Office Agency / HMRC: Valuation records for Great House Farm/Tŷ Mawr (20 Oct 2026)",
+   "date_display": "2026-10-20 to 2026-11-05",
+   "date_sort": "2026-10-20",
+   "status": "refusal",
+   "page": null
+  },
+  "EV-0484": {
+   "id": "EV-0484",
+   "kind": "evidence",
+   "title": "Wales Office: Great House Farm records request 26FOI 103 (29 Aug 2026–28 Sep 2026)",
+   "date_display": "2026-08-29 to 2026-11-02",
+   "date_sort": "2026-08-29",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0485": {
+   "id": "EV-0485",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Enquiry about compulsory purchase route for farmland (2 Nov 2025–4 Nov 2025)",
+   "date_display": "2025-11-02 to 2025-11-04",
+   "date_sort": "2025-11-02",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0486": {
+   "id": "EV-0486",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: FOI request on listing refusal and demolition records (23 Jan 2026)",
+   "date_display": "2026-01-23",
+   "date_sort": "2026-01-23",
+   "status": "no reply by deadline",
+   "page": null
+  },
+  "EV-0487": {
+   "id": "EV-0487",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Petition and public inquiry request to Senedd members (1 Feb 2026)",
+   "date_display": "2026-02-01",
+   "date_sort": "2026-02-01",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0488": {
+   "id": "EV-0488",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Report alleging dispossession and archaeological suppression (6 Feb 2026–25 Feb 2026)",
+   "date_display": "2026-02-06 to 2026-02-25",
+   "date_sort": "2026-02-06",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0489": {
+   "id": "EV-0489",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: FOI request and review on farm listing records (17 May 2026–29 Jul 2026)",
+   "date_display": "2026-05-17 to 2026-07-29",
+   "date_sort": "2026-05-17",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0490": {
+   "id": "EV-0490",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Legal preservation and disclosure notice for farm records (29 May 2026)",
+   "date_display": "2026-05-29",
+   "date_sort": "2026-05-29",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0491": {
+   "id": "EV-0491",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Complaint about handling of 1988 listing process (9 Aug 2026–4 Sep 2026)",
+   "date_display": "2026-08-09 to 2026-09-04",
+   "date_sort": "2026-08-09",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0492": {
+   "id": "EV-0492",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Formal complaint about 1988 listing assessment handling (17 Sep 2026–30 Sep 2026)",
+   "date_display": "2026-09-17 to 2026-10-21",
+   "date_sort": "2026-09-17",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0493": {
+   "id": "EV-0493",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Preservation notice to Planning and Environment Decisions Wales (28 Sep 2026–8 Oct 2026)",
+   "date_display": "2026-09-28 to 2026-10-08",
+   "date_sort": "2026-09-28",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0494": {
+   "id": "EV-0494",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: FOI request for 1988 Welsh Office/Cadw papers (28 Sep 2026–19 Oct 2026)",
+   "date_display": "2026-09-28 to 2026-10-19",
+   "date_sort": "2026-09-28",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0495": {
+   "id": "EV-0495",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: Statutory notice query on HER classification (30 Sep 2026)",
+   "date_display": "2026-09-30",
+   "date_sort": "2026-09-30",
+   "status": "no reply",
+   "page": null
+  },
+  "EV-0496": {
+   "id": "EV-0496",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: FOI request on 1988 listing-file disposal finding (10 Oct 2026–16 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-11-06",
+   "date_sort": "2026-10-10",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0497": {
+   "id": "EV-0497",
+   "kind": "evidence",
+   "title": "Welsh Government / Cadw: FOI and review of retention and destruction schedules (10 Oct 2026–19 Oct 2026)",
+   "date_display": "2026-10-10 to 2026-10-30",
+   "date_sort": "2026-10-10",
+   "status": "partial",
+   "page": null
+  },
+  "EV-0498": {
+   "id": "EV-0498",
+   "kind": "evidence",
+   "title": "Department for Culture, Media and Sport: FOI2026/06174 – Department for Culture, Media and Sport – Response Letter (22 Jul 2026)",
+   "date_display": "2026-07-22 to 2026-10-21",
+   "date_sort": "2026-07-22",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0499": {
+   "id": "EV-0499",
+   "kind": "evidence",
+   "title": "Information Commissioner’s Office: ICO Case Reference: IC-546505-W6P0 (10 Aug 2026)",
+   "date_display": "2026-08-10 to 2026-10-27",
+   "date_sort": "2026-08-10",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0500": {
+   "id": "EV-0500",
+   "kind": "evidence",
+   "title": "Legal regulators: Historic Adverse Possession Licence Interruption Cases (1950–2000) (23 Feb 2026)",
+   "date_display": "2026-02-23",
+   "date_sort": "2026-02-23",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0501": {
+   "id": "EV-0501",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Response to your request (our reference 260702090 – SAR) (3 Aug 2026)",
+   "date_display": "2026-08-03",
+   "date_sort": "2026-08-03",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0502": {
+   "id": "EV-0502",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: 260805002 – FOIA – response (12 Aug 2026)",
+   "date_display": "2026-08-12",
+   "date_sort": "2026-08-12",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0503": {
+   "id": "EV-0503",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Response to your request (our reference 260803049 – SAR) (3 Sep 2026)",
+   "date_display": "2026-09-03",
+   "date_sort": "2026-09-03",
+   "status": "correspondence (no disclosure)",
+   "page": null
+  },
+  "EV-0504": {
+   "id": "EV-0504",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Extension – Our reference: 260813002 FOI IR (9 Sep 2026)",
+   "date_display": "2026-09-09",
+   "date_sort": "2026-09-09",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0505": {
+   "id": "EV-0505",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: Extension – Our reference: 260904007 SAR IR (2 Oct 2026)",
+   "date_display": "2026-10-02",
+   "date_sort": "2026-10-02",
+   "status": "acknowledgement only",
+   "page": null
+  },
+  "EV-0506": {
+   "id": "EV-0506",
+   "kind": "evidence",
+   "title": "Ministry of Justice / HMCTS: FREEDOM OF INFORMATION ACT (FOIA) INTERNAL REVIEW (9 Oct 2026)",
+   "date_display": "2026-10-09",
+   "date_sort": "2026-10-09",
+   "status": "complaint outcome",
+   "page": null
+  },
+  "EV-0507": {
+   "id": "EV-0507",
+   "kind": "evidence",
+   "title": "Northern Ireland Office: 26FOI 103 – Response (22 Sep 2026)",
+   "date_display": "2026-09-22",
+   "date_sort": "2026-09-22",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0508": {
+   "id": "EV-0508",
+   "kind": "evidence",
+   "title": "SFO: Automatic reply: Buckler vs United Kingdom (21 Jul 2026)",
+   "date_display": "2026-07-21",
+   "date_sort": "2026-07-21",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0509": {
+   "id": "EV-0509",
+   "kind": "evidence",
+   "title": "South Wales Police: Our Reference: LPB/26/0781 (14 May 2026–20 May 2026)",
+   "date_display": "2026-05-14 to 2026-05-20",
+   "date_sort": "2026-05-14",
+   "status": "redirected elsewhere",
+   "page": null
+  },
+  "EV-0510": {
+   "id": "EV-0510",
+   "kind": "evidence",
+   "title": "South Wales Police: Freedom of Information Request 1040/26 (28 Sep 2026–29 Sep 2026)",
+   "date_display": "2026-09-28 to 2026-10-21",
+   "date_sort": "2026-09-28",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0511": {
+   "id": "EV-0511",
+   "kind": "evidence",
+   "title": "South Wales Police: Internal Review 1188/26 of FOI 719/26 (29 Sep 2026)",
+   "date_display": "2026-09-29 to 2026-11-06",
+   "date_sort": "2026-09-29",
+   "status": "not held",
+   "page": null
+  },
+  "EV-0512": {
+   "id": "EV-0512",
+   "kind": "evidence",
+   "title": "South Wales Police: Subject Access Request (30 Sep 2026)",
+   "date_display": "2026-09-30 to 2026-11-04",
+   "date_sort": "2026-09-30",
+   "status": "substantive disclosure",
+   "page": null
+  },
+  "EV-0600": {
+   "id": "EV-0600",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: Ministry of Justice, “BP vs Buckler 1987”",
+   "date_display": null,
+   "date_sort": "1987",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0601": {
+   "id": "EV-0601",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: Vale of Glamorgan Council, “2020 01590 HYB”",
+   "date_display": null,
+   "date_sort": "2020",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0602": {
+   "id": "EV-0602",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: The National Archives, “Great House Farm, Llandough, Cardiff (BP vs Buckler 1987)”",
+   "date_display": null,
+   "date_sort": "1987",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0603": {
+   "id": "EV-0603",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: Ministry of Defence, “1988 Dispossession of Great House Farm, Llandough from the Williams/ Buckler Family”",
+   "date_display": null,
+   "date_sort": "1988",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0604": {
+   "id": "EV-0604",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: National Police Chiefs’ Council, “BP vs Buckler 1987”",
+   "date_display": null,
+   "date_sort": "1987",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0605": {
+   "id": "EV-0605",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: HM Courts and Tribunals Service, “Freedom of Information Request – Administrative Records for BP Properties Ltd v Buckler (1974)”",
+   "date_display": null,
+   "date_sort": "1974",
+   "status": "catalogued",
+   "page": null
+  },
+  "EV-0606": {
+   "id": "EV-0606",
+   "kind": "evidence",
+   "title": "WhatDoTheyKnow: Llandough Community Council, “Meeting of 22 October 2026: remote-only arrangements, outstanding questions and the Great House Farm (Tŷ Mawr) records”",
+   "date_display": null,
+   "date_sort": "2026",
+   "status": "catalogued",
+   "page": null
+  },
   "EV-0614": {
    "id": "EV-0614",
    "kind": "evidence",
@@ -2864,6 +4703,15 @@
    "date_display": "1820 – July 1866 (church history; note undated)",
    "date_sort": "1820-00-00",
    "status": "HELD-ONLINE",
+   "page": null
+  },
+  "EV-0901": {
+   "id": "EV-0901",
+   "kind": "evidence",
+   "title": "South Wales Echo, 23 Mar 1989, p.4: report on legal proceedings (William Buckler)",
+   "date_display": "Thursday 23 March 1989, p.4",
+   "date_sort": "1989-03-23",
+   "status": "SOURCE PENDING (snippet only)",
    "page": null
   },
   "MR-0058": {
