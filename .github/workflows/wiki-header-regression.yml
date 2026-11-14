@@ -1,0 +1,24 @@
+name: Wiki header regression
+
+on:
+  push:
+    branches:
+      - pally/wiki-header-fix-2026-11-14
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'wp-content/themes/h4/global.css'
+      - 'tests/test_wiki_header_css.py'
+      - '.github/workflows/wiki-header-regression.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  selective-header-rule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify only the redundant Wiki-local navigation is hidden
+        run: python3 tests/test_wiki_header_css.py
