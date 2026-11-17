@@ -1,14 +1,13 @@
 {
-  "schema": "bucklerfamily.estate/legacy-wiki-crosswalk/1.0.2",
+  "schema": "bucklerfamily.estate/legacy-wiki-crosswalk/1.0.3",
   "generated_at": "2026-11-17",
   "source": {
     "legacy_wordpress_site": "https://greathousefarmwiki.wordpress.com",
     "legacy_wordpress_published_pages": 977,
     "source_mirror_published_pages": 1023,
-    "source_mirror_tables": "research-wp-d1.content_items",
     "wiki_repository": "unclehowell/cedwyn-wiki",
-    "wiki_repository_html_pages": 976,
-    "method": "Published WordPress page inventory joined to research-wp-d1 source metadata and mapped to the complete central core_items evidence table by EV ID and legacy alias."
+    "wiki_repository_html_pages": 977,
+    "method": "Published WordPress page inventory joined to research-wp-d1 source metadata and mapped to the central core_items evidence table by EV ID and legacy alias."
   },
   "destination": {
     "catalogue": "https://bucklerfamily.estate/catalogue/",
@@ -16,54 +15,55 @@
   },
   "counts": {
     "wordpress_pages": 977,
-    "wiki_repository_html_pages": 976,
-    "shared_paths": 974,
-    "wordpress_pages_missing_from_wiki": 3,
+    "wiki_repository_html_pages": 977,
+    "shared_paths": 975,
+    "wordpress_pages_missing_from_wiki": 2,
     "wiki_repository_only_pages": 2,
     "classes": {
       "catalogue_record": 679,
-      "narrative_page": 263,
+      "narrative_page": 262,
       "catalogue_index": 2,
       "narrative_or_index": 30,
       "unresolved_record": 1,
+      "legacy_homepage": 1,
       "id_collision": 2
     },
     "matched_catalogue_record_routes": 679,
-    "source_record_pages": 689,
-    "source_record_pages_with_html": 687
+    "record_and_evidence_library_paths": 689
   },
   "exceptions": [
     {
       "legacy_id": "EV-0607",
       "wordpress_page_id": 9197,
       "reason": "28 October 2026 ITV footage lead reused EV-0607, already assigned to a separate 25 October analysis chart.",
-      "action": "Keep chart record intact; add footage lead under new ID through central writer."
+      "action": "Keep chart record intact; add the footage lead under a fresh ID through the central writer."
     },
     {
       "legacy_id": "EV-0608",
       "wordpress_page_id": 9198,
       "reason": "28 October 2026 ITV footage lead reused EV-0608, already assigned to a separate 25 October analysis chart.",
-      "action": "Keep chart record intact; add footage lead under new ID through central writer."
+      "action": "Keep chart record intact; add the footage lead under a fresh ID through the central writer."
     },
     {
       "legacy_id": "EV-0900",
       "reason": "A research synthesis page exists in the legacy sources but no central EV-0900 item exists.",
-      "action": "Classify as secondary research synthesis; do not present as primary source."
+      "action": "Classify as secondary research synthesis; migrate with explicit synthesis status and source references."
     },
     {
       "legacy_id": "EV-0295",
-      "reason": "Multi-record disclosure index (EV-0295 to EV-0512), not a single artefact.",
+      "reason": "Multi-record disclosure index (EV-0295 to EV-0512), not a single artifact.",
       "action": "Index page should point to catalogue evidence search, not an individual record."
+    },
+    {
+      "path": "/",
+      "wordpress_page_id": 9183,
+      "wordpress_title": "This wiki has moved to Cedwyn Estate",
+      "wiki_repository_title": "Great House Farm Wiki &#8211; Public documentary archive of Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth, South Wales: land, ownership, litigation, archaeology and family evidence.",
+      "reason": "Same root URL, but the current WP page is a move notice while the mirrored Wiki root is the older full home page.",
+      "action": "Keep the old homepage content in the archive/repository for provenance; /wiki/ itself can redirect to the catalogue as instructed."
     }
   ],
   "wordpress_pages_missing_from_wiki": [
-    {
-      "wp_page_id": 9183,
-      "path": "//",
-      "title": "This wiki has moved to Cedwyn&nbsp;Estate",
-      "page_class": "narrative_page",
-      "source_url": "https://greathousefarmwiki.wordpress.com/"
-    },
     {
       "wp_page_id": 9197,
       "path": "/evidence/ev-0607-archive-footage-catalogue-people-protesting-redevelopment-cottage-llandough-11-april-1974/",
@@ -81,16 +81,20 @@
   ],
   "wiki_repository_only_pages": [
     {
-      "path": "/bute-lordship-courts-llandough/",
-      "source_path": "/bute-lordship-courts-llandough/",
+      "wiki_path": "/wiki/bute-lordship-courts-llandough/",
+      "repo_path": "/bute-lordship-courts-llandough/",
+      "title": "The Bute Lordship Courts at Llandough — evidence, venues and legal context",
       "page_class": "wiki_repository_only",
-      "note": "Present in cedwyn-wiki but absent from current legacy WordPress published-page inventory; preserve and review separately."
+      "html_chars": 14851,
+      "note": "Present in the dedicated Wiki repository but absent from the current published WordPress page inventory; retain and review separately."
     },
     {
-      "path": "/parcel-a-pending-emails/",
-      "source_path": "/parcel-a-pending-emails/",
+      "wiki_path": "/wiki/parcel-a-pending-emails/",
+      "repo_path": "/parcel-a-pending-emails/",
+      "title": "Parcel A pending emails &#8211; Gmail drafts inventory (22 Oct 2026) &#8211; Great House Farm Wiki",
       "page_class": "wiki_repository_only",
-      "note": "Present in cedwyn-wiki but absent from current legacy WordPress published-page inventory; preserve and review separately."
+      "html_chars": 122624,
+      "note": "Present in the dedicated Wiki repository but absent from the current published WordPress page inventory; retain and review separately."
     }
   ],
   "routes": {
@@ -20592,7 +20596,7 @@
       "central_page_present": true,
       "central_data_chars": 706,
       "title_similarity": 0.1,
-      "note": "Same stable ID; legacy and current titles differ materially—check lineage."
+      "note": "Same EV ID, but legacy and catalogue titles differ substantially; review lineage."
     },
     {
       "wp_page_id": 4714,
@@ -22158,7 +22162,7 @@
       "central_page_present": false,
       "central_data_chars": 335,
       "title_similarity": 0.063,
-      "note": "Same stable ID; legacy and current titles differ materially—check lineage."
+      "note": "Same EV ID, but legacy and catalogue titles differ substantially; review lineage."
     },
     {
       "wp_page_id": 4773,
@@ -22374,7 +22378,7 @@
       "central_page_present": false,
       "central_data_chars": 258,
       "title_similarity": 0,
-      "note": "Same stable ID; legacy and current titles differ materially—check lineage."
+      "note": "Same EV ID, but legacy and catalogue titles differ substantially; review lineage."
     },
     {
       "wp_page_id": 4781,
@@ -22428,7 +22432,7 @@
       "central_page_present": false,
       "central_data_chars": 258,
       "title_similarity": 0.059,
-      "note": "Same stable ID; legacy and current titles differ materially—check lineage."
+      "note": "Same EV ID, but legacy and catalogue titles differ substantially; review lineage."
     },
     {
       "wp_page_id": 4783,
@@ -22644,7 +22648,7 @@
       "central_page_present": true,
       "central_data_chars": 302,
       "title_similarity": 0.176,
-      "note": "Same stable ID; legacy and current titles differ materially—check lineage."
+      "note": "Same EV ID, but legacy and catalogue titles differ substantially; review lineage."
     },
     {
       "wp_page_id": 5356,
@@ -25911,7 +25915,7 @@
       "central_page_present": false,
       "central_data_chars": 135,
       "title_similarity": null,
-      "note": "Multi-record disclosure index; not one artefact."
+      "note": "Multi-record disclosure index; not an individual artifact."
     },
     {
       "wp_page_id": 7839,
@@ -31419,7 +31423,7 @@
       "central_page_present": false,
       "central_data_chars": null,
       "title_similarity": null,
-      "note": "ID absent from central core_items snapshot."
+      "note": "Legacy EV ID absent from central core_items snapshot."
     },
     {
       "wp_page_id": 8497,
@@ -31824,22 +31828,22 @@
       "central_page_present": false,
       "central_data_chars": 135,
       "title_similarity": null,
-      "note": "Multi-record disclosure index; not one artefact."
+      "note": "Multi-record disclosure index; not an individual artifact."
     },
     {
       "wp_page_id": 9183,
       "title": "This wiki has moved to Cedwyn&nbsp;Estate",
       "slug": "moved-to-cedwyn",
       "source_url": "https://greathousefarmwiki.wordpress.com/",
-      "source_path": "//",
+      "source_path": "/",
       "wiki_path": "/wiki/",
       "published_at": "2026-10-25T12:23:25",
       "modified_at": "2026-10-25T12:23:54",
-      "page_class": "narrative_page",
-      "wiki_file_present": false,
-      "source_mirror_present": false,
-      "source_html_chars": null,
-      "source_last_modified": null,
+      "page_class": "legacy_homepage",
+      "wiki_file_present": true,
+      "source_mirror_present": true,
+      "source_html_chars": 68548,
+      "source_last_modified": "2026-10-21T19:55:00",
       "catalogue_id": null,
       "legacy_alias": null,
       "canonical_id": null,
@@ -31851,7 +31855,7 @@
       "central_page_present": false,
       "central_data_chars": null,
       "title_similarity": null,
-      "note": null
+      "note": "The WP page is a move notice; the mirrored Wiki root file is the previous full homepage and should be checked for content/provenance divergence."
     },
     {
       "wp_page_id": 9197,
@@ -31878,7 +31882,7 @@
       "central_page_present": true,
       "central_data_chars": 293,
       "title_similarity": null,
-      "note": "Old ITV footage lead reuses an ID already assigned to a different central analysis chart."
+      "note": "Legacy footage catalogue lead reuses ID already assigned to a distinct central analysis chart."
     },
     {
       "wp_page_id": 9198,
@@ -31905,7 +31909,7 @@
       "central_page_present": true,
       "central_data_chars": 293,
       "title_similarity": null,
-      "note": "Old ITV footage lead reuses an ID already assigned to a different central analysis chart."
+      "note": "Legacy footage catalogue lead reuses ID already assigned to a distinct central analysis chart."
     }
   ]
 }
