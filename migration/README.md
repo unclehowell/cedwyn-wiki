@@ -24,7 +24,7 @@ This folder records the audited migration map from `greathousefarmwiki.wordpress
 
 ## Deployment
 
-The crosswalk is not itself a live redirect. The apex Worker needs to consume this file and issue 301 redirects for `routes`; the legacy WP links embedded in older HTML should then be rewritten or redirected. Unmapped, conflicting, and narrative pages must remain accessible until reviewed.
+The crosswalk is not itself a live redirect. `legacy-wiki-redirects.json` is the compact route map for the apex Worker: it contains only the 679 supported record destinations. The Worker should issue 301 redirects for those routes. Unmapped, conflicting, and narrative pages must remain accessible until reviewed. The 17 November snapshot classifies 679 published pages as catalogue records, 2 as ID collisions, 1 as an unresolved record, 30 as narrative/index pages under the evidence sections, and 262 as other narrative pages.
 
 Central record writes remain add-only and must go through the designated catalogue writer. The public `/api/catalogue` endpoint is read-only.
 
