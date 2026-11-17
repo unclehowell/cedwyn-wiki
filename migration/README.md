@@ -29,3 +29,8 @@ The crosswalk is not itself a live redirect. `legacy-wiki-redirects.json` is the
 Central record writes remain add-only and must go through the designated catalogue writer. The public `/api/catalogue` endpoint is read-only.
 
 Tracking issue: https://github.com/unclehowell/cedwyn/issues/611
+
+
+## Content reconciliation register
+
+`legacy-wiki-content-review.json` lists each of the mapped legacy record pages against its central `core_items` row. It includes the old source URL, source-page ID, mirrored HTML size and date, central summary/transcript/page-field presence, and the canonical catalogue URL. It is a gap register only: source prose, transcripts, image assets and interpretations still require record-specific normalization and central-writer approval. The central read-only snapshot found 806 evidence rows, of which 24 have a non-empty summary, none has a non-empty transcript/body, 181 have a page field, and all 806 have structured `data`. The 520 direct legacy EV pages average 3,379 characters of source HTML; 54 exceed 5,000 characters and 12 exceed 10,000. This must not be mistaken for 520 fully transferable evidence narratives because some pages consist mainly of record templates and navigation.
